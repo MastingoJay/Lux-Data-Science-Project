@@ -1,5 +1,7 @@
 # Lux-Data-Science-Project
-![image]("C:\Users\DELL\Downloads\photo_2024-09-02_17-35-12.jpg")
+
+
+https://github.com/MastingoJay/Lux-Data-Science-Project.wiki.git
 
 
 Used jupyter notebook for analysis and power bi for visualization
