@@ -1,6 +1,8 @@
 # LUX-DATA-SCIENCE- MOVIE PROJECT
 Used jupyter notebook for analysis and power bi for visualization
 
+![](https://github.com/MastingoJay/Lux-Data-Science-Project.wiki.git)
+
 The aim of the project is to perform exploratory data analysis to uncover interesting patterns, insights, and potential anomalies within the Movie dataset.
 # Data Overview and Cleaning:
 The dataset has 1000 entries and 12 columns which are;
