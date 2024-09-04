@@ -135,3 +135,12 @@ Many movies have multiple genres, indicating a trend towards genre-blending in t
 
 3.Metascore vs. Revenue: 
 Some movies with low metascores still achieved high revenues, suggesting that critical reception doesn't always align with box office success.
+
+# Dashboard 
+
+
+![](https://github.com/MastingoJay/Lux-Data-Science-Project/blob/main/Screenshot%20(42).png)
+
+I used Power BI as my visualization tool to create an interactive dashboard that a user can control based on their preference by use of filters created to enhance the interactivity. 
+
+There is a link of 2 videos recording containing further and deeper explanation of jupyter notebook work and power bi visualization.
